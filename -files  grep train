@@ -1,0 +1,13 @@
+[33mcommit 97bcaaec47794d9b6b8dbdfd75e37517ab78d52e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Arash Razi <arash.razi.eng@gmail.com>
+Date:   Wed Jul 15 15:10:35 2026 +0330
+
+    initial commit
+
+ .gitignore                                          |   3 [32m+++[m
+ .../Lab1/__pycache__/helper_utils.cpython-312.pyc   | Bin [31m12168[m -> [32m0[m bytes
+ .../Lab1/data/cifar_100/cifar-100-python/file.txt~  |   0
+ .../Labs/Lab1/data/cifar_100/cifar-100-python/meta  |  10 [31m----------[m
+ .../Labs/Lab1/data/cifar_100/cifar-100-python/test  | Bin [31m31049707[m -> [32m0[m bytes
+ .../Labs/Lab1/data/cifar_100/cifar-100-python/train | Bin [31m155249918[m -> [32m0[m bytes
+ 6 files changed, 3 insertions(+), 10 deletions(-)
